@@ -2,6 +2,7 @@
 This to detect the emotion using open cv and Deepface 
 !pip install deepface
 !pip install opencv-python-headless
+
 # Import required libraries
 import cv2
 from deepface import DeepFace
